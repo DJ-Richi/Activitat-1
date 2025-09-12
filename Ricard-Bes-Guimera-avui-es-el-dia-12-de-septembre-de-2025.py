@@ -1,0 +1,1 @@
+print("Ricard-Bes-Guimera-avui-es-el-dia-12-de-septembre-de-2025")
